@@ -16,7 +16,6 @@ resume: true
 resume-external: true
 resume-url: https://drive.google.com/file/d/1RGLLFj9mHUuAslZwRWZ0nfWvtfU8MJQG/view?usp=sharing
 
-url: https://sergiokopplin.github.io/indigo
 your url: https://yiluzeng.github.io
 
 permalink: /:title/
@@ -52,20 +51,6 @@ github: yiluzeng
 # lanyrd: mylanyrd
 email: yilu_zeng@brown.edu
 
-authors:
-  johndoe:
-    name: John Doe
-    bio: A Man who travels the world eating noodles
-    external-image: false
-    picture: assets/images/profile.jpg
-    twitter: johndoe
-  jamesfoster:
-    name: James Foster
-    bio: A Man who develops software with coffee
-    external-image: false
-    picture: assets/images/james.jpg
-    twitter: jamesfoster
-
 # do you want a larger site? change the option below
 # options: [normal, large] | default: normal
 # normal = 560px / large = 810px
@@ -99,7 +84,7 @@ related: true
 post-advance-links: [blog]
 
 # show author block at the end of a post ?
-show-author: true
+# show-author: true
 
 # do you want some animations?
 animation: true
