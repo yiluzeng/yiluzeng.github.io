@@ -1,0 +1,29 @@
+---
+layout: page
+title: Projects
+---
+<section class="list">
+    <ul>
+        <li><a href="https://github.com/yiluzeng/Mthreads">Mthreads</a></li>
+        <ul>
+            <li>Implemented a library with an M-to-N (M user-level threads multiplexed on N kernel threads) threading model; 
+                complete with thread creation/deletion/joining, mutexes, condition variables, and a priority-based scheduler.</li>
+            <li>Support user-level threads running in parallel on many processors and can use the implemented package to write multi-threaded applications.</li>
+        </ul>   
+        
+        <li><a href="https://github.com/yiluzeng/Database">Database</a></li>
+        <ul>
+            <li>Created a server to manage a store item database of key-value pairs over a network; implemented multi-threaded functionality to handle multiple 
+                clients and signal handlings reacting to user inputs in C.</li>
+            <li>Provided thread-safe infrastructure for users to search for items in the database, add new entries, 
+                and remove existing entries.</li>
+        </ul>
+
+        <li><a href="https://github.com/yiluzeng/Shell">Shell</a></li>
+        <ul>
+            <li>Created a version of C Shell; did text parsing on input and took appropriate built-in and external actions.</li>
+            <li>Implemented a job control that was able to handle multiple processes by running some in the background, as well as managing processes with signal forwarding.</li>
+        </ul>
+
+    </ul>
+</section>
