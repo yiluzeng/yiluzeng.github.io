@@ -4,9 +4,9 @@ layout: page
 ---
 ![Profile Image]({% if site.external-image %}{{ site.picture }}{% else %}{{ site.url }}/{{ site.picture }}{% endif %})
 
-<p>Experienced web developer, familiar with object-oriented programming languages (<b>Java</b>), strong fundamental knowledge in computer operating systems (<b>C</b>), professional experience in the software engineering industry.</p>
+<p>Experienced software engineer and data analyst, familiar with object-orient programming (<b>Java</b>), strong fundamental knowledge in computer operating systems (<b>C</b>), skilled in statistical and machine learning modeling (<b>Python</b>), with professional experience in <b>technology</b> and <b>finance</b> industry.</p>
 
-<p><b>Actively looking for 2020 summer internship</b></p>
+<p><b>Actively looking for 2021 summer internship</b></p>
 
 <h2>Skills</h2>
 
