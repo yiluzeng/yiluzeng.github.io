@@ -12,9 +12,9 @@ picture: assets/images/profile.jpg
 
 # If you want to include your resume, set to true
 # and specify source (external or local).
-resume: false
-resume-external: false
-resume-url:
+#resume: false
+#resume-external:
+#resume-url:
 
 your url: https://yiluzeng.github.io
 
