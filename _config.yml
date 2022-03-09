@@ -3,7 +3,7 @@ name: Yilu Zeng
 bio: Undergrad at Brown University | Applied Math-CS
 
 # twitter summary info
-description: A blog about technology and stuff related
+description: Life
 
 # if it's an external image, update below for true
 # better with square images
@@ -14,7 +14,7 @@ picture: assets/images/profile.jpg
 # and specify source (external or local).
 resume: true
 resume-external: true
-resume-url: https://drive.google.com/file/d/1kJuSi-bT91-LulrlFa1M1DTOjXMICd7Y/view?usp=sharing
+resume-url: https://drive.google.com/file/d/1xwP-sl2PaPGrsamUM1z_lOukhu9eVCcH/view?usp=sharing
 
 your url: https://yiluzeng.github.io
 
@@ -69,7 +69,7 @@ projects: true
 
 # if you don't need "about" or "blog", comment them out below
 about: true
-# blog: true
+blog: true
 
 # do you want to show the "read time" of the posts?
 read-time: true
